@@ -1,0 +1,2720 @@
+{"stats": [{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf8d"
+  },
+  "Rank": "1",
+  "Player": "zekken",
+  "Maps": "20",
+  "Kills": "381",
+  "Deaths": "314",
+  "Assists": "90",
+  "KD": "1.21",
+  "KDA": "1.5",
+  "ACS_Map": "259",
+  "K_Map": "19",
+  "D_Map": "15.7",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf8e"
+  },
+  "Rank": "2",
+  "Player": "ZmjjKK",
+  "Maps": "8",
+  "Kills": "135",
+  "Deaths": "125",
+  "Assists": "39",
+  "KD": "1.08",
+  "KDA": "1.39",
+  "ACS_Map": "252",
+  "K_Map": "16.8",
+  "D_Map": "15.6",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf8f"
+  },
+  "Rank": "3",
+  "Player": "N4RRATE",
+  "Maps": "7",
+  "Kills": "132",
+  "Deaths": "104",
+  "Assists": "65",
+  "KD": "1.26",
+  "KDA": "1.89",
+  "ACS_Map": "245",
+  "K_Map": "18.8",
+  "D_Map": "14.8",
+  "A_Map": "9.2"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf90"
+  },
+  "Rank": "4",
+  "Player": "MiniBoo",
+  "Maps": "6",
+  "Kills": "114",
+  "Deaths": "92",
+  "Assists": "37",
+  "KD": "1.23",
+  "KDA": "1.64",
+  "ACS_Map": "245",
+  "K_Map": "19",
+  "D_Map": "15.3",
+  "A_Map": "6.1"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf91"
+  },
+  "Rank": "5",
+  "Player": "Autumn",
+  "Maps": "4",
+  "Kills": "68",
+  "Deaths": "71",
+  "Assists": "16",
+  "KD": "0.95",
+  "KDA": "1.18",
+  "ACS_Map": "231",
+  "K_Map": "17",
+  "D_Map": "17.7",
+  "A_Map": "4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf92"
+  },
+  "Rank": "6",
+  "Player": "Life",
+  "Maps": "4",
+  "Kills": "71",
+  "Deaths": "68",
+  "Assists": "10",
+  "KD": "1.04",
+  "KDA": "1.19",
+  "ACS_Map": "230",
+  "K_Map": "17.7",
+  "D_Map": "17",
+  "A_Map": "2.5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf93"
+  },
+  "Rank": "7",
+  "Player": "RieNs",
+  "Maps": "6",
+  "Kills": "103",
+  "Deaths": "90",
+  "Assists": "44",
+  "KD": "1.14",
+  "KDA": "1.63",
+  "ACS_Map": "230",
+  "K_Map": "17.1",
+  "D_Map": "15",
+  "A_Map": "7.3"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf94"
+  },
+  "Rank": "8",
+  "Player": "Meteor",
+  "Maps": "16",
+  "Kills": "268",
+  "Deaths": "236",
+  "Assists": "61",
+  "KD": "1.13",
+  "KDA": "1.39",
+  "ACS_Map": "230",
+  "K_Map": "16.7",
+  "D_Map": "14.7",
+  "A_Map": "3.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf95"
+  },
+  "Rank": "9",
+  "Player": "t3xture",
+  "Maps": "16",
+  "Kills": "264",
+  "Deaths": "246",
+  "Assists": "53",
+  "KD": "1.07",
+  "KDA": "1.28",
+  "ACS_Map": "224",
+  "K_Map": "16.5",
+  "D_Map": "15.3",
+  "A_Map": "3.3"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf96"
+  },
+  "Rank": "10",
+  "Player": "cauanzin",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "178",
+  "Assists": "72",
+  "KD": "1.09",
+  "KDA": "1.5",
+  "ACS_Map": "223",
+  "K_Map": "16.2",
+  "D_Map": "14.8",
+  "A_Map": "6"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf97"
+  },
+  "Rank": "11",
+  "Player": "qck",
+  "Maps": "12",
+  "Kills": "193",
+  "Deaths": "187",
+  "Assists": "39",
+  "KD": "1.03",
+  "KDA": "1.24",
+  "ACS_Map": "218",
+  "K_Map": "16",
+  "D_Map": "15.5",
+  "A_Map": "3.2"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf98"
+  },
+  "Rank": "12",
+  "Player": "benjyfishy",
+  "Maps": "6",
+  "Kills": "101",
+  "Deaths": "90",
+  "Assists": "30",
+  "KD": "1.12",
+  "KDA": "1.45",
+  "ACS_Map": "216",
+  "K_Map": "16.8",
+  "D_Map": "15",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf99"
+  },
+  "Rank": "13",
+  "Player": "f0rsakeN",
+  "Maps": "17",
+  "Kills": "273",
+  "Deaths": "268",
+  "Assists": "132",
+  "KD": "1.01",
+  "KDA": "1.51",
+  "ACS_Map": "216",
+  "K_Map": "16",
+  "D_Map": "15.7",
+  "A_Map": "7.7"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9a"
+  },
+  "Rank": "14",
+  "Player": "marteen",
+  "Maps": "7",
+  "Kills": "118",
+  "Deaths": "116",
+  "Assists": "32",
+  "KD": "1.01",
+  "KDA": "1.29",
+  "ACS_Map": "214",
+  "K_Map": "16.8",
+  "D_Map": "16.5",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9b"
+  },
+  "Rank": "15",
+  "Player": "Less",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "148",
+  "Assists": "80",
+  "KD": "1.31",
+  "KDA": "1.85",
+  "ACS_Map": "213",
+  "K_Map": "16.2",
+  "D_Map": "12.3",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9c"
+  },
+  "Rank": "16",
+  "Player": "something",
+  "Maps": "17",
+  "Kills": "274",
+  "Deaths": "254",
+  "Assists": "79",
+  "KD": "1.07",
+  "KDA": "1.38",
+  "ACS_Map": "212",
+  "K_Map": "16.1",
+  "D_Map": "14.9",
+  "A_Map": "4.6"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9d"
+  },
+  "Rank": "17",
+  "Player": "TenZ",
+  "Maps": "20",
+  "Kills": "314",
+  "Deaths": "300",
+  "Assists": "226",
+  "KD": "1.04",
+  "KDA": "1.8",
+  "ACS_Map": "208",
+  "K_Map": "15.7",
+  "D_Map": "15",
+  "A_Map": "11.3"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9e"
+  },
+  "Rank": "18",
+  "Player": "Karon",
+  "Maps": "16",
+  "Kills": "242",
+  "Deaths": "229",
+  "Assists": "119",
+  "KD": "1.05",
+  "KDA": "1.57",
+  "ACS_Map": "207",
+  "K_Map": "15.1",
+  "D_Map": "14.3",
+  "A_Map": "7.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112daf9f"
+  },
+  "Rank": "19",
+  "Player": "Monyet",
+  "Maps": "17",
+  "Kills": "250",
+  "Deaths": "289",
+  "Assists": "110",
+  "KD": "0.86",
+  "KDA": "1.24",
+  "ACS_Map": "199",
+  "K_Map": "14.7",
+  "D_Map": "17",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa0"
+  },
+  "Rank": "20",
+  "Player": "johnqt",
+  "Maps": "20",
+  "Kills": "293",
+  "Deaths": "251",
+  "Assists": "117",
+  "KD": "1.16",
+  "KDA": "1.63",
+  "ACS_Map": "198",
+  "K_Map": "14.6",
+  "D_Map": "12.5",
+  "A_Map": "5.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa1"
+  },
+  "Rank": "21",
+  "Player": "Magnum",
+  "Maps": "7",
+  "Kills": "106",
+  "Deaths": "106",
+  "Assists": "45",
+  "KD": "1",
+  "KDA": "1.42",
+  "ACS_Map": "195",
+  "K_Map": "15.1",
+  "D_Map": "15.1",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa2"
+  },
+  "Rank": "22",
+  "Player": "Smoggy",
+  "Maps": "8",
+  "Kills": "110",
+  "Deaths": "111",
+  "Assists": "56",
+  "KD": "0.99",
+  "KDA": "1.49",
+  "ACS_Map": "194",
+  "K_Map": "13.7",
+  "D_Map": "13.8",
+  "A_Map": "7"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa3"
+  },
+  "Rank": "23",
+  "Player": "Saadhak",
+  "Maps": "12",
+  "Kills": "162",
+  "Deaths": "163",
+  "Assists": "94",
+  "KD": "0.99",
+  "KDA": "1.57",
+  "ACS_Map": "191",
+  "K_Map": "13.5",
+  "D_Map": "13.5",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa4"
+  },
+  "Rank": "24",
+  "Player": "tuyz",
+  "Maps": "12",
+  "Kills": "186",
+  "Deaths": "144",
+  "Assists": "80",
+  "KD": "1.29",
+  "KDA": "1.84",
+  "ACS_Map": "190",
+  "K_Map": "15.5",
+  "D_Map": "12",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa5"
+  },
+  "Rank": "25",
+  "Player": "Munchkin",
+  "Maps": "16",
+  "Kills": "220",
+  "Deaths": "201",
+  "Assists": "131",
+  "KD": "1.09",
+  "KDA": "1.74",
+  "ACS_Map": "189",
+  "K_Map": "13.7",
+  "D_Map": "12.5",
+  "A_Map": "8.1"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa6"
+  },
+  "Rank": "26",
+  "Player": "Zellsis",
+  "Maps": "20",
+  "Kills": "263",
+  "Deaths": "282",
+  "Assists": "172",
+  "KD": "0.93",
+  "KDA": "1.54",
+  "ACS_Map": "188",
+  "K_Map": "13.1",
+  "D_Map": "14.1",
+  "A_Map": "8.6"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa7"
+  },
+  "Rank": "27",
+  "Player": "d4v41",
+  "Maps": "17",
+  "Kills": "234",
+  "Deaths": "259",
+  "Assists": "143",
+  "KD": "0.9",
+  "KDA": "1.45",
+  "ACS_Map": "182",
+  "K_Map": "13.7",
+  "D_Map": "15.2",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa8"
+  },
+  "Rank": "28",
+  "Player": "Shin",
+  "Maps": "7",
+  "Kills": "101",
+  "Deaths": "103",
+  "Assists": "56",
+  "KD": "0.98",
+  "KDA": "1.52",
+  "ACS_Map": "178",
+  "K_Map": "14.4",
+  "D_Map": "14.7",
+  "A_Map": "8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafa9"
+  },
+  "Rank": "29",
+  "Player": "Sacy",
+  "Maps": "20",
+  "Kills": "249",
+  "Deaths": "289",
+  "Assists": "169",
+  "KD": "0.86",
+  "KDA": "1.44",
+  "ACS_Map": "173",
+  "K_Map": "12.4",
+  "D_Map": "14.4",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafaa"
+  },
+  "Rank": "30",
+  "Player": "nobody",
+  "Maps": "8",
+  "Kills": "92",
+  "Deaths": "112",
+  "Assists": "40",
+  "KD": "0.82",
+  "KDA": "1.17",
+  "ACS_Map": "173",
+  "K_Map": "11.5",
+  "D_Map": "14",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafab"
+  },
+  "Rank": "31",
+  "Player": "CHICHOO",
+  "Maps": "8",
+  "Kills": "93",
+  "Deaths": "115",
+  "Assists": "36",
+  "KD": "0.8",
+  "KDA": "1.12",
+  "ACS_Map": "169",
+  "K_Map": "11.6",
+  "D_Map": "14.3",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafac"
+  },
+  "Rank": "32",
+  "Player": "mindfreak",
+  "Maps": "17",
+  "Kills": "217",
+  "Deaths": "258",
+  "Assists": "83",
+  "KD": "0.84",
+  "KDA": "1.16",
+  "ACS_Map": "162",
+  "K_Map": "12.7",
+  "D_Map": "15.1",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafad"
+  },
+  "Rank": "33",
+  "Player": "Boo",
+  "Maps": "6",
+  "Kills": "79",
+  "Deaths": "91",
+  "Assists": "47",
+  "KD": "0.86",
+  "KDA": "1.38",
+  "ACS_Map": "162",
+  "K_Map": "13.1",
+  "D_Map": "15.1",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafae"
+  },
+  "Rank": "34",
+  "Player": "AAAAY",
+  "Maps": "4",
+  "Kills": "48",
+  "Deaths": "70",
+  "Assists": "23",
+  "KD": "0.68",
+  "KDA": "1.01",
+  "ACS_Map": "161",
+  "K_Map": "12",
+  "D_Map": "17.5",
+  "A_Map": "5.7"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafaf"
+  },
+  "Rank": "35",
+  "Player": "Lakia",
+  "Maps": "16",
+  "Kills": "177",
+  "Deaths": "228",
+  "Assists": "87",
+  "KD": "0.77",
+  "KDA": "1.15",
+  "ACS_Map": "153",
+  "K_Map": "11",
+  "D_Map": "14.2",
+  "A_Map": "5.4"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafb0"
+  },
+  "Rank": "36",
+  "Player": "Lysoar",
+  "Maps": "4",
+  "Kills": "44",
+  "Deaths": "61",
+  "Assists": "17",
+  "KD": "0.72",
+  "KDA": "1",
+  "ACS_Map": "152",
+  "K_Map": "11",
+  "D_Map": "15.2",
+  "A_Map": "4.2"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafb1"
+  },
+  "Rank": "37",
+  "Player": "Haodong",
+  "Maps": "8",
+  "Kills": "83",
+  "Deaths": "115",
+  "Assists": "41",
+  "KD": "0.72",
+  "KDA": "1.07",
+  "ACS_Map": "152",
+  "K_Map": "10.3",
+  "D_Map": "14.3",
+  "A_Map": "5.1"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafb2"
+  },
+  "Rank": "38",
+  "Player": "BerLIN",
+  "Maps": "4",
+  "Kills": "46",
+  "Deaths": "66",
+  "Assists": "27",
+  "KD": "0.69",
+  "KDA": "1.1",
+  "ACS_Map": "150",
+  "K_Map": "11.5",
+  "D_Map": "16.5",
+  "A_Map": "6.7"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafb3"
+  },
+  "Rank": "39",
+  "Player": "paTiTek",
+  "Maps": "6",
+  "Kills": "61",
+  "Deaths": "94",
+  "Assists": "63",
+  "KD": "0.64",
+  "KDA": "1.31",
+  "ACS_Map": "149",
+  "K_Map": "10.1",
+  "D_Map": "15.6",
+  "A_Map": "10.5"
+},
+{
+  "_id": {
+    "$oid": "667462a8d56e1642112dafb4"
+  },
+  "Rank": "40",
+  "Player": "tomaszy",
+  "Maps": "7",
+  "Kills": "73",
+  "Deaths": "110",
+  "Assists": "46",
+  "KD": "0.66",
+  "KDA": "1.08",
+  "ACS_Map": "138",
+  "K_Map": "10.4",
+  "D_Map": "15.7",
+  "A_Map": "6.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5b6"
+  },
+  "Rank": "1",
+  "Player": "zekken",
+  "Maps": "20",
+  "Kills": "381",
+  "Deaths": "314",
+  "Assists": "90",
+  "KD": "1.21",
+  "KDA": "1.5",
+  "ACS_Map": "259",
+  "K_Map": "19",
+  "D_Map": "15.7",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5b7"
+  },
+  "Rank": "2",
+  "Player": "ZmjjKK",
+  "Maps": "8",
+  "Kills": "135",
+  "Deaths": "125",
+  "Assists": "39",
+  "KD": "1.08",
+  "KDA": "1.39",
+  "ACS_Map": "252",
+  "K_Map": "16.8",
+  "D_Map": "15.6",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5b8"
+  },
+  "Rank": "3",
+  "Player": "N4RRATE",
+  "Maps": "7",
+  "Kills": "132",
+  "Deaths": "104",
+  "Assists": "65",
+  "KD": "1.26",
+  "KDA": "1.89",
+  "ACS_Map": "245",
+  "K_Map": "18.8",
+  "D_Map": "14.8",
+  "A_Map": "9.2"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5b9"
+  },
+  "Rank": "4",
+  "Player": "MiniBoo",
+  "Maps": "6",
+  "Kills": "114",
+  "Deaths": "92",
+  "Assists": "37",
+  "KD": "1.23",
+  "KDA": "1.64",
+  "ACS_Map": "245",
+  "K_Map": "19",
+  "D_Map": "15.3",
+  "A_Map": "6.1"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5ba"
+  },
+  "Rank": "5",
+  "Player": "Autumn",
+  "Maps": "4",
+  "Kills": "68",
+  "Deaths": "71",
+  "Assists": "16",
+  "KD": "0.95",
+  "KDA": "1.18",
+  "ACS_Map": "231",
+  "K_Map": "17",
+  "D_Map": "17.7",
+  "A_Map": "4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5bb"
+  },
+  "Rank": "6",
+  "Player": "Life",
+  "Maps": "4",
+  "Kills": "71",
+  "Deaths": "68",
+  "Assists": "10",
+  "KD": "1.04",
+  "KDA": "1.19",
+  "ACS_Map": "230",
+  "K_Map": "17.7",
+  "D_Map": "17",
+  "A_Map": "2.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5bc"
+  },
+  "Rank": "7",
+  "Player": "RieNs",
+  "Maps": "6",
+  "Kills": "103",
+  "Deaths": "90",
+  "Assists": "44",
+  "KD": "1.14",
+  "KDA": "1.63",
+  "ACS_Map": "230",
+  "K_Map": "17.1",
+  "D_Map": "15",
+  "A_Map": "7.3"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5bd"
+  },
+  "Rank": "8",
+  "Player": "Meteor",
+  "Maps": "16",
+  "Kills": "268",
+  "Deaths": "236",
+  "Assists": "61",
+  "KD": "1.13",
+  "KDA": "1.39",
+  "ACS_Map": "230",
+  "K_Map": "16.7",
+  "D_Map": "14.7",
+  "A_Map": "3.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5be"
+  },
+  "Rank": "9",
+  "Player": "t3xture",
+  "Maps": "16",
+  "Kills": "264",
+  "Deaths": "246",
+  "Assists": "53",
+  "KD": "1.07",
+  "KDA": "1.28",
+  "ACS_Map": "224",
+  "K_Map": "16.5",
+  "D_Map": "15.3",
+  "A_Map": "3.3"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5bf"
+  },
+  "Rank": "10",
+  "Player": "cauanzin",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "178",
+  "Assists": "72",
+  "KD": "1.09",
+  "KDA": "1.5",
+  "ACS_Map": "223",
+  "K_Map": "16.2",
+  "D_Map": "14.8",
+  "A_Map": "6"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c0"
+  },
+  "Rank": "11",
+  "Player": "qck",
+  "Maps": "12",
+  "Kills": "193",
+  "Deaths": "187",
+  "Assists": "39",
+  "KD": "1.03",
+  "KDA": "1.24",
+  "ACS_Map": "218",
+  "K_Map": "16",
+  "D_Map": "15.5",
+  "A_Map": "3.2"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c1"
+  },
+  "Rank": "12",
+  "Player": "benjyfishy",
+  "Maps": "6",
+  "Kills": "101",
+  "Deaths": "90",
+  "Assists": "30",
+  "KD": "1.12",
+  "KDA": "1.45",
+  "ACS_Map": "216",
+  "K_Map": "16.8",
+  "D_Map": "15",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c2"
+  },
+  "Rank": "13",
+  "Player": "f0rsakeN",
+  "Maps": "17",
+  "Kills": "273",
+  "Deaths": "268",
+  "Assists": "132",
+  "KD": "1.01",
+  "KDA": "1.51",
+  "ACS_Map": "216",
+  "K_Map": "16",
+  "D_Map": "15.7",
+  "A_Map": "7.7"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c3"
+  },
+  "Rank": "14",
+  "Player": "marteen",
+  "Maps": "7",
+  "Kills": "118",
+  "Deaths": "116",
+  "Assists": "32",
+  "KD": "1.01",
+  "KDA": "1.29",
+  "ACS_Map": "214",
+  "K_Map": "16.8",
+  "D_Map": "16.5",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c4"
+  },
+  "Rank": "15",
+  "Player": "Less",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "148",
+  "Assists": "80",
+  "KD": "1.31",
+  "KDA": "1.85",
+  "ACS_Map": "213",
+  "K_Map": "16.2",
+  "D_Map": "12.3",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c5"
+  },
+  "Rank": "16",
+  "Player": "something",
+  "Maps": "17",
+  "Kills": "274",
+  "Deaths": "254",
+  "Assists": "79",
+  "KD": "1.07",
+  "KDA": "1.38",
+  "ACS_Map": "212",
+  "K_Map": "16.1",
+  "D_Map": "14.9",
+  "A_Map": "4.6"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c6"
+  },
+  "Rank": "17",
+  "Player": "TenZ",
+  "Maps": "20",
+  "Kills": "314",
+  "Deaths": "300",
+  "Assists": "226",
+  "KD": "1.04",
+  "KDA": "1.8",
+  "ACS_Map": "208",
+  "K_Map": "15.7",
+  "D_Map": "15",
+  "A_Map": "11.3"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c7"
+  },
+  "Rank": "18",
+  "Player": "Karon",
+  "Maps": "16",
+  "Kills": "242",
+  "Deaths": "229",
+  "Assists": "119",
+  "KD": "1.05",
+  "KDA": "1.57",
+  "ACS_Map": "207",
+  "K_Map": "15.1",
+  "D_Map": "14.3",
+  "A_Map": "7.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c8"
+  },
+  "Rank": "19",
+  "Player": "Monyet",
+  "Maps": "17",
+  "Kills": "250",
+  "Deaths": "289",
+  "Assists": "110",
+  "KD": "0.86",
+  "KDA": "1.24",
+  "ACS_Map": "199",
+  "K_Map": "14.7",
+  "D_Map": "17",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5c9"
+  },
+  "Rank": "20",
+  "Player": "johnqt",
+  "Maps": "20",
+  "Kills": "293",
+  "Deaths": "251",
+  "Assists": "117",
+  "KD": "1.16",
+  "KDA": "1.63",
+  "ACS_Map": "198",
+  "K_Map": "14.6",
+  "D_Map": "12.5",
+  "A_Map": "5.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5ca"
+  },
+  "Rank": "21",
+  "Player": "Magnum",
+  "Maps": "7",
+  "Kills": "106",
+  "Deaths": "106",
+  "Assists": "45",
+  "KD": "1",
+  "KDA": "1.42",
+  "ACS_Map": "195",
+  "K_Map": "15.1",
+  "D_Map": "15.1",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5cb"
+  },
+  "Rank": "22",
+  "Player": "Smoggy",
+  "Maps": "8",
+  "Kills": "110",
+  "Deaths": "111",
+  "Assists": "56",
+  "KD": "0.99",
+  "KDA": "1.49",
+  "ACS_Map": "194",
+  "K_Map": "13.7",
+  "D_Map": "13.8",
+  "A_Map": "7"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5cc"
+  },
+  "Rank": "23",
+  "Player": "Saadhak",
+  "Maps": "12",
+  "Kills": "162",
+  "Deaths": "163",
+  "Assists": "94",
+  "KD": "0.99",
+  "KDA": "1.57",
+  "ACS_Map": "191",
+  "K_Map": "13.5",
+  "D_Map": "13.5",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5cd"
+  },
+  "Rank": "24",
+  "Player": "tuyz",
+  "Maps": "12",
+  "Kills": "186",
+  "Deaths": "144",
+  "Assists": "80",
+  "KD": "1.29",
+  "KDA": "1.84",
+  "ACS_Map": "190",
+  "K_Map": "15.5",
+  "D_Map": "12",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5ce"
+  },
+  "Rank": "25",
+  "Player": "Munchkin",
+  "Maps": "16",
+  "Kills": "220",
+  "Deaths": "201",
+  "Assists": "131",
+  "KD": "1.09",
+  "KDA": "1.74",
+  "ACS_Map": "189",
+  "K_Map": "13.7",
+  "D_Map": "12.5",
+  "A_Map": "8.1"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5cf"
+  },
+  "Rank": "26",
+  "Player": "Zellsis",
+  "Maps": "20",
+  "Kills": "263",
+  "Deaths": "282",
+  "Assists": "172",
+  "KD": "0.93",
+  "KDA": "1.54",
+  "ACS_Map": "188",
+  "K_Map": "13.1",
+  "D_Map": "14.1",
+  "A_Map": "8.6"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d0"
+  },
+  "Rank": "27",
+  "Player": "d4v41",
+  "Maps": "17",
+  "Kills": "234",
+  "Deaths": "259",
+  "Assists": "143",
+  "KD": "0.9",
+  "KDA": "1.45",
+  "ACS_Map": "182",
+  "K_Map": "13.7",
+  "D_Map": "15.2",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d1"
+  },
+  "Rank": "28",
+  "Player": "Shin",
+  "Maps": "7",
+  "Kills": "101",
+  "Deaths": "103",
+  "Assists": "56",
+  "KD": "0.98",
+  "KDA": "1.52",
+  "ACS_Map": "178",
+  "K_Map": "14.4",
+  "D_Map": "14.7",
+  "A_Map": "8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d2"
+  },
+  "Rank": "29",
+  "Player": "Sacy",
+  "Maps": "20",
+  "Kills": "249",
+  "Deaths": "289",
+  "Assists": "169",
+  "KD": "0.86",
+  "KDA": "1.44",
+  "ACS_Map": "173",
+  "K_Map": "12.4",
+  "D_Map": "14.4",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d3"
+  },
+  "Rank": "30",
+  "Player": "nobody",
+  "Maps": "8",
+  "Kills": "92",
+  "Deaths": "112",
+  "Assists": "40",
+  "KD": "0.82",
+  "KDA": "1.17",
+  "ACS_Map": "173",
+  "K_Map": "11.5",
+  "D_Map": "14",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d4"
+  },
+  "Rank": "31",
+  "Player": "CHICHOO",
+  "Maps": "8",
+  "Kills": "93",
+  "Deaths": "115",
+  "Assists": "36",
+  "KD": "0.8",
+  "KDA": "1.12",
+  "ACS_Map": "169",
+  "K_Map": "11.6",
+  "D_Map": "14.3",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d5"
+  },
+  "Rank": "32",
+  "Player": "mindfreak",
+  "Maps": "17",
+  "Kills": "217",
+  "Deaths": "258",
+  "Assists": "83",
+  "KD": "0.84",
+  "KDA": "1.16",
+  "ACS_Map": "162",
+  "K_Map": "12.7",
+  "D_Map": "15.1",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d6"
+  },
+  "Rank": "33",
+  "Player": "Boo",
+  "Maps": "6",
+  "Kills": "79",
+  "Deaths": "91",
+  "Assists": "47",
+  "KD": "0.86",
+  "KDA": "1.38",
+  "ACS_Map": "162",
+  "K_Map": "13.1",
+  "D_Map": "15.1",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d7"
+  },
+  "Rank": "34",
+  "Player": "AAAAY",
+  "Maps": "4",
+  "Kills": "48",
+  "Deaths": "70",
+  "Assists": "23",
+  "KD": "0.68",
+  "KDA": "1.01",
+  "ACS_Map": "161",
+  "K_Map": "12",
+  "D_Map": "17.5",
+  "A_Map": "5.7"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d8"
+  },
+  "Rank": "35",
+  "Player": "Lakia",
+  "Maps": "16",
+  "Kills": "177",
+  "Deaths": "228",
+  "Assists": "87",
+  "KD": "0.77",
+  "KDA": "1.15",
+  "ACS_Map": "153",
+  "K_Map": "11",
+  "D_Map": "14.2",
+  "A_Map": "5.4"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5d9"
+  },
+  "Rank": "36",
+  "Player": "Lysoar",
+  "Maps": "4",
+  "Kills": "44",
+  "Deaths": "61",
+  "Assists": "17",
+  "KD": "0.72",
+  "KDA": "1",
+  "ACS_Map": "152",
+  "K_Map": "11",
+  "D_Map": "15.2",
+  "A_Map": "4.2"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5da"
+  },
+  "Rank": "37",
+  "Player": "Haodong",
+  "Maps": "8",
+  "Kills": "83",
+  "Deaths": "115",
+  "Assists": "41",
+  "KD": "0.72",
+  "KDA": "1.07",
+  "ACS_Map": "152",
+  "K_Map": "10.3",
+  "D_Map": "14.3",
+  "A_Map": "5.1"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5db"
+  },
+  "Rank": "38",
+  "Player": "BerLIN",
+  "Maps": "4",
+  "Kills": "46",
+  "Deaths": "66",
+  "Assists": "27",
+  "KD": "0.69",
+  "KDA": "1.1",
+  "ACS_Map": "150",
+  "K_Map": "11.5",
+  "D_Map": "16.5",
+  "A_Map": "6.7"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5dc"
+  },
+  "Rank": "39",
+  "Player": "paTiTek",
+  "Maps": "6",
+  "Kills": "61",
+  "Deaths": "94",
+  "Assists": "63",
+  "KD": "0.64",
+  "KDA": "1.31",
+  "ACS_Map": "149",
+  "K_Map": "10.1",
+  "D_Map": "15.6",
+  "A_Map": "10.5"
+},
+{
+  "_id": {
+    "$oid": "667485b1d66901fa67cbf5dd"
+  },
+  "Rank": "40",
+  "Player": "tomaszy",
+  "Maps": "7",
+  "Kills": "73",
+  "Deaths": "110",
+  "Assists": "46",
+  "KD": "0.66",
+  "KDA": "1.08",
+  "ACS_Map": "138",
+  "K_Map": "10.4",
+  "D_Map": "15.7",
+  "A_Map": "6.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aab5"
+  },
+  "Rank": "1",
+  "Player": "zekken",
+  "Maps": "20",
+  "Kills": "381",
+  "Deaths": "314",
+  "Assists": "90",
+  "KD": "1.21",
+  "KDA": "1.5",
+  "ACS_Map": "259",
+  "K_Map": "19",
+  "D_Map": "15.7",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aab6"
+  },
+  "Rank": "2",
+  "Player": "ZmjjKK",
+  "Maps": "8",
+  "Kills": "135",
+  "Deaths": "125",
+  "Assists": "39",
+  "KD": "1.08",
+  "KDA": "1.39",
+  "ACS_Map": "252",
+  "K_Map": "16.8",
+  "D_Map": "15.6",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aab7"
+  },
+  "Rank": "3",
+  "Player": "N4RRATE",
+  "Maps": "7",
+  "Kills": "132",
+  "Deaths": "104",
+  "Assists": "65",
+  "KD": "1.26",
+  "KDA": "1.89",
+  "ACS_Map": "245",
+  "K_Map": "18.8",
+  "D_Map": "14.8",
+  "A_Map": "9.2"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aab8"
+  },
+  "Rank": "4",
+  "Player": "MiniBoo",
+  "Maps": "6",
+  "Kills": "114",
+  "Deaths": "92",
+  "Assists": "37",
+  "KD": "1.23",
+  "KDA": "1.64",
+  "ACS_Map": "245",
+  "K_Map": "19",
+  "D_Map": "15.3",
+  "A_Map": "6.1"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aab9"
+  },
+  "Rank": "5",
+  "Player": "Autumn",
+  "Maps": "4",
+  "Kills": "68",
+  "Deaths": "71",
+  "Assists": "16",
+  "KD": "0.95",
+  "KDA": "1.18",
+  "ACS_Map": "231",
+  "K_Map": "17",
+  "D_Map": "17.7",
+  "A_Map": "4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aaba"
+  },
+  "Rank": "6",
+  "Player": "Life",
+  "Maps": "4",
+  "Kills": "71",
+  "Deaths": "68",
+  "Assists": "10",
+  "KD": "1.04",
+  "KDA": "1.19",
+  "ACS_Map": "230",
+  "K_Map": "17.7",
+  "D_Map": "17",
+  "A_Map": "2.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aabb"
+  },
+  "Rank": "7",
+  "Player": "RieNs",
+  "Maps": "6",
+  "Kills": "103",
+  "Deaths": "90",
+  "Assists": "44",
+  "KD": "1.14",
+  "KDA": "1.63",
+  "ACS_Map": "230",
+  "K_Map": "17.1",
+  "D_Map": "15",
+  "A_Map": "7.3"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aabc"
+  },
+  "Rank": "8",
+  "Player": "Meteor",
+  "Maps": "16",
+  "Kills": "268",
+  "Deaths": "236",
+  "Assists": "61",
+  "KD": "1.13",
+  "KDA": "1.39",
+  "ACS_Map": "230",
+  "K_Map": "16.7",
+  "D_Map": "14.7",
+  "A_Map": "3.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aabd"
+  },
+  "Rank": "9",
+  "Player": "t3xture",
+  "Maps": "16",
+  "Kills": "264",
+  "Deaths": "246",
+  "Assists": "53",
+  "KD": "1.07",
+  "KDA": "1.28",
+  "ACS_Map": "224",
+  "K_Map": "16.5",
+  "D_Map": "15.3",
+  "A_Map": "3.3"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aabe"
+  },
+  "Rank": "10",
+  "Player": "cauanzin",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "178",
+  "Assists": "72",
+  "KD": "1.09",
+  "KDA": "1.5",
+  "ACS_Map": "223",
+  "K_Map": "16.2",
+  "D_Map": "14.8",
+  "A_Map": "6"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aabf"
+  },
+  "Rank": "11",
+  "Player": "qck",
+  "Maps": "12",
+  "Kills": "193",
+  "Deaths": "187",
+  "Assists": "39",
+  "KD": "1.03",
+  "KDA": "1.24",
+  "ACS_Map": "218",
+  "K_Map": "16",
+  "D_Map": "15.5",
+  "A_Map": "3.2"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac0"
+  },
+  "Rank": "12",
+  "Player": "benjyfishy",
+  "Maps": "6",
+  "Kills": "101",
+  "Deaths": "90",
+  "Assists": "30",
+  "KD": "1.12",
+  "KDA": "1.45",
+  "ACS_Map": "216",
+  "K_Map": "16.8",
+  "D_Map": "15",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac1"
+  },
+  "Rank": "13",
+  "Player": "f0rsakeN",
+  "Maps": "17",
+  "Kills": "273",
+  "Deaths": "268",
+  "Assists": "132",
+  "KD": "1.01",
+  "KDA": "1.51",
+  "ACS_Map": "216",
+  "K_Map": "16",
+  "D_Map": "15.7",
+  "A_Map": "7.7"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac2"
+  },
+  "Rank": "14",
+  "Player": "marteen",
+  "Maps": "7",
+  "Kills": "118",
+  "Deaths": "116",
+  "Assists": "32",
+  "KD": "1.01",
+  "KDA": "1.29",
+  "ACS_Map": "214",
+  "K_Map": "16.8",
+  "D_Map": "16.5",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac3"
+  },
+  "Rank": "15",
+  "Player": "Less",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "148",
+  "Assists": "80",
+  "KD": "1.31",
+  "KDA": "1.85",
+  "ACS_Map": "213",
+  "K_Map": "16.2",
+  "D_Map": "12.3",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac4"
+  },
+  "Rank": "16",
+  "Player": "something",
+  "Maps": "17",
+  "Kills": "274",
+  "Deaths": "254",
+  "Assists": "79",
+  "KD": "1.07",
+  "KDA": "1.38",
+  "ACS_Map": "212",
+  "K_Map": "16.1",
+  "D_Map": "14.9",
+  "A_Map": "4.6"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac5"
+  },
+  "Rank": "17",
+  "Player": "TenZ",
+  "Maps": "20",
+  "Kills": "314",
+  "Deaths": "300",
+  "Assists": "226",
+  "KD": "1.04",
+  "KDA": "1.8",
+  "ACS_Map": "208",
+  "K_Map": "15.7",
+  "D_Map": "15",
+  "A_Map": "11.3"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac6"
+  },
+  "Rank": "18",
+  "Player": "Karon",
+  "Maps": "16",
+  "Kills": "242",
+  "Deaths": "229",
+  "Assists": "119",
+  "KD": "1.05",
+  "KDA": "1.57",
+  "ACS_Map": "207",
+  "K_Map": "15.1",
+  "D_Map": "14.3",
+  "A_Map": "7.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac7"
+  },
+  "Rank": "19",
+  "Player": "Monyet",
+  "Maps": "17",
+  "Kills": "250",
+  "Deaths": "289",
+  "Assists": "110",
+  "KD": "0.86",
+  "KDA": "1.24",
+  "ACS_Map": "199",
+  "K_Map": "14.7",
+  "D_Map": "17",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac8"
+  },
+  "Rank": "20",
+  "Player": "johnqt",
+  "Maps": "20",
+  "Kills": "293",
+  "Deaths": "251",
+  "Assists": "117",
+  "KD": "1.16",
+  "KDA": "1.63",
+  "ACS_Map": "198",
+  "K_Map": "14.6",
+  "D_Map": "12.5",
+  "A_Map": "5.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aac9"
+  },
+  "Rank": "21",
+  "Player": "Magnum",
+  "Maps": "7",
+  "Kills": "106",
+  "Deaths": "106",
+  "Assists": "45",
+  "KD": "1",
+  "KDA": "1.42",
+  "ACS_Map": "195",
+  "K_Map": "15.1",
+  "D_Map": "15.1",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aaca"
+  },
+  "Rank": "22",
+  "Player": "Smoggy",
+  "Maps": "8",
+  "Kills": "110",
+  "Deaths": "111",
+  "Assists": "56",
+  "KD": "0.99",
+  "KDA": "1.49",
+  "ACS_Map": "194",
+  "K_Map": "13.7",
+  "D_Map": "13.8",
+  "A_Map": "7"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aacb"
+  },
+  "Rank": "23",
+  "Player": "Saadhak",
+  "Maps": "12",
+  "Kills": "162",
+  "Deaths": "163",
+  "Assists": "94",
+  "KD": "0.99",
+  "KDA": "1.57",
+  "ACS_Map": "191",
+  "K_Map": "13.5",
+  "D_Map": "13.5",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aacc"
+  },
+  "Rank": "24",
+  "Player": "tuyz",
+  "Maps": "12",
+  "Kills": "186",
+  "Deaths": "144",
+  "Assists": "80",
+  "KD": "1.29",
+  "KDA": "1.84",
+  "ACS_Map": "190",
+  "K_Map": "15.5",
+  "D_Map": "12",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aacd"
+  },
+  "Rank": "25",
+  "Player": "Munchkin",
+  "Maps": "16",
+  "Kills": "220",
+  "Deaths": "201",
+  "Assists": "131",
+  "KD": "1.09",
+  "KDA": "1.74",
+  "ACS_Map": "189",
+  "K_Map": "13.7",
+  "D_Map": "12.5",
+  "A_Map": "8.1"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aace"
+  },
+  "Rank": "26",
+  "Player": "Zellsis",
+  "Maps": "20",
+  "Kills": "263",
+  "Deaths": "282",
+  "Assists": "172",
+  "KD": "0.93",
+  "KDA": "1.54",
+  "ACS_Map": "188",
+  "K_Map": "13.1",
+  "D_Map": "14.1",
+  "A_Map": "8.6"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aacf"
+  },
+  "Rank": "27",
+  "Player": "d4v41",
+  "Maps": "17",
+  "Kills": "234",
+  "Deaths": "259",
+  "Assists": "143",
+  "KD": "0.9",
+  "KDA": "1.45",
+  "ACS_Map": "182",
+  "K_Map": "13.7",
+  "D_Map": "15.2",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad0"
+  },
+  "Rank": "28",
+  "Player": "Shin",
+  "Maps": "7",
+  "Kills": "101",
+  "Deaths": "103",
+  "Assists": "56",
+  "KD": "0.98",
+  "KDA": "1.52",
+  "ACS_Map": "178",
+  "K_Map": "14.4",
+  "D_Map": "14.7",
+  "A_Map": "8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad1"
+  },
+  "Rank": "29",
+  "Player": "Sacy",
+  "Maps": "20",
+  "Kills": "249",
+  "Deaths": "289",
+  "Assists": "169",
+  "KD": "0.86",
+  "KDA": "1.44",
+  "ACS_Map": "173",
+  "K_Map": "12.4",
+  "D_Map": "14.4",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad2"
+  },
+  "Rank": "30",
+  "Player": "nobody",
+  "Maps": "8",
+  "Kills": "92",
+  "Deaths": "112",
+  "Assists": "40",
+  "KD": "0.82",
+  "KDA": "1.17",
+  "ACS_Map": "173",
+  "K_Map": "11.5",
+  "D_Map": "14",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad3"
+  },
+  "Rank": "31",
+  "Player": "CHICHOO",
+  "Maps": "8",
+  "Kills": "93",
+  "Deaths": "115",
+  "Assists": "36",
+  "KD": "0.8",
+  "KDA": "1.12",
+  "ACS_Map": "169",
+  "K_Map": "11.6",
+  "D_Map": "14.3",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad4"
+  },
+  "Rank": "32",
+  "Player": "mindfreak",
+  "Maps": "17",
+  "Kills": "217",
+  "Deaths": "258",
+  "Assists": "83",
+  "KD": "0.84",
+  "KDA": "1.16",
+  "ACS_Map": "162",
+  "K_Map": "12.7",
+  "D_Map": "15.1",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad5"
+  },
+  "Rank": "33",
+  "Player": "Boo",
+  "Maps": "6",
+  "Kills": "79",
+  "Deaths": "91",
+  "Assists": "47",
+  "KD": "0.86",
+  "KDA": "1.38",
+  "ACS_Map": "162",
+  "K_Map": "13.1",
+  "D_Map": "15.1",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad6"
+  },
+  "Rank": "34",
+  "Player": "AAAAY",
+  "Maps": "4",
+  "Kills": "48",
+  "Deaths": "70",
+  "Assists": "23",
+  "KD": "0.68",
+  "KDA": "1.01",
+  "ACS_Map": "161",
+  "K_Map": "12",
+  "D_Map": "17.5",
+  "A_Map": "5.7"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad7"
+  },
+  "Rank": "35",
+  "Player": "Lakia",
+  "Maps": "16",
+  "Kills": "177",
+  "Deaths": "228",
+  "Assists": "87",
+  "KD": "0.77",
+  "KDA": "1.15",
+  "ACS_Map": "153",
+  "K_Map": "11",
+  "D_Map": "14.2",
+  "A_Map": "5.4"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad8"
+  },
+  "Rank": "36",
+  "Player": "Lysoar",
+  "Maps": "4",
+  "Kills": "44",
+  "Deaths": "61",
+  "Assists": "17",
+  "KD": "0.72",
+  "KDA": "1",
+  "ACS_Map": "152",
+  "K_Map": "11",
+  "D_Map": "15.2",
+  "A_Map": "4.2"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aad9"
+  },
+  "Rank": "37",
+  "Player": "Haodong",
+  "Maps": "8",
+  "Kills": "83",
+  "Deaths": "115",
+  "Assists": "41",
+  "KD": "0.72",
+  "KDA": "1.07",
+  "ACS_Map": "152",
+  "K_Map": "10.3",
+  "D_Map": "14.3",
+  "A_Map": "5.1"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aada"
+  },
+  "Rank": "38",
+  "Player": "BerLIN",
+  "Maps": "4",
+  "Kills": "46",
+  "Deaths": "66",
+  "Assists": "27",
+  "KD": "0.69",
+  "KDA": "1.1",
+  "ACS_Map": "150",
+  "K_Map": "11.5",
+  "D_Map": "16.5",
+  "A_Map": "6.7"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aadb"
+  },
+  "Rank": "39",
+  "Player": "paTiTek",
+  "Maps": "6",
+  "Kills": "61",
+  "Deaths": "94",
+  "Assists": "63",
+  "KD": "0.64",
+  "KDA": "1.31",
+  "ACS_Map": "149",
+  "K_Map": "10.1",
+  "D_Map": "15.6",
+  "A_Map": "10.5"
+},
+{
+  "_id": {
+    "$oid": "6674eb812c01821497f1aadc"
+  },
+  "Rank": "40",
+  "Player": "tomaszy",
+  "Maps": "7",
+  "Kills": "73",
+  "Deaths": "110",
+  "Assists": "46",
+  "KD": "0.66",
+  "KDA": "1.08",
+  "ACS_Map": "138",
+  "K_Map": "10.4",
+  "D_Map": "15.7",
+  "A_Map": "6.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60f8"
+  },
+  "Rank": "1",
+  "Player": "zekken",
+  "Maps": "20",
+  "Kills": "381",
+  "Deaths": "314",
+  "Assists": "90",
+  "KD": "1.21",
+  "KDA": "1.5",
+  "ACS_Map": "259",
+  "K_Map": "19",
+  "D_Map": "15.7",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60f9"
+  },
+  "Rank": "2",
+  "Player": "ZmjjKK",
+  "Maps": "8",
+  "Kills": "135",
+  "Deaths": "125",
+  "Assists": "39",
+  "KD": "1.08",
+  "KDA": "1.39",
+  "ACS_Map": "252",
+  "K_Map": "16.8",
+  "D_Map": "15.6",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60fa"
+  },
+  "Rank": "3",
+  "Player": "N4RRATE",
+  "Maps": "7",
+  "Kills": "132",
+  "Deaths": "104",
+  "Assists": "65",
+  "KD": "1.26",
+  "KDA": "1.89",
+  "ACS_Map": "245",
+  "K_Map": "18.8",
+  "D_Map": "14.8",
+  "A_Map": "9.2"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60fb"
+  },
+  "Rank": "4",
+  "Player": "MiniBoo",
+  "Maps": "6",
+  "Kills": "114",
+  "Deaths": "92",
+  "Assists": "37",
+  "KD": "1.23",
+  "KDA": "1.64",
+  "ACS_Map": "245",
+  "K_Map": "19",
+  "D_Map": "15.3",
+  "A_Map": "6.1"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60fc"
+  },
+  "Rank": "5",
+  "Player": "Autumn",
+  "Maps": "4",
+  "Kills": "68",
+  "Deaths": "71",
+  "Assists": "16",
+  "KD": "0.95",
+  "KDA": "1.18",
+  "ACS_Map": "231",
+  "K_Map": "17",
+  "D_Map": "17.7",
+  "A_Map": "4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60fd"
+  },
+  "Rank": "6",
+  "Player": "Life",
+  "Maps": "4",
+  "Kills": "71",
+  "Deaths": "68",
+  "Assists": "10",
+  "KD": "1.04",
+  "KDA": "1.19",
+  "ACS_Map": "230",
+  "K_Map": "17.7",
+  "D_Map": "17",
+  "A_Map": "2.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60fe"
+  },
+  "Rank": "7",
+  "Player": "RieNs",
+  "Maps": "6",
+  "Kills": "103",
+  "Deaths": "90",
+  "Assists": "44",
+  "KD": "1.14",
+  "KDA": "1.63",
+  "ACS_Map": "230",
+  "K_Map": "17.1",
+  "D_Map": "15",
+  "A_Map": "7.3"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b60ff"
+  },
+  "Rank": "8",
+  "Player": "Meteor",
+  "Maps": "16",
+  "Kills": "268",
+  "Deaths": "236",
+  "Assists": "61",
+  "KD": "1.13",
+  "KDA": "1.39",
+  "ACS_Map": "230",
+  "K_Map": "16.7",
+  "D_Map": "14.7",
+  "A_Map": "3.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6100"
+  },
+  "Rank": "9",
+  "Player": "t3xture",
+  "Maps": "16",
+  "Kills": "264",
+  "Deaths": "246",
+  "Assists": "53",
+  "KD": "1.07",
+  "KDA": "1.28",
+  "ACS_Map": "224",
+  "K_Map": "16.5",
+  "D_Map": "15.3",
+  "A_Map": "3.3"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6101"
+  },
+  "Rank": "10",
+  "Player": "cauanzin",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "178",
+  "Assists": "72",
+  "KD": "1.09",
+  "KDA": "1.5",
+  "ACS_Map": "223",
+  "K_Map": "16.2",
+  "D_Map": "14.8",
+  "A_Map": "6"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6102"
+  },
+  "Rank": "11",
+  "Player": "qck",
+  "Maps": "12",
+  "Kills": "193",
+  "Deaths": "187",
+  "Assists": "39",
+  "KD": "1.03",
+  "KDA": "1.24",
+  "ACS_Map": "218",
+  "K_Map": "16",
+  "D_Map": "15.5",
+  "A_Map": "3.2"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6103"
+  },
+  "Rank": "12",
+  "Player": "benjyfishy",
+  "Maps": "6",
+  "Kills": "101",
+  "Deaths": "90",
+  "Assists": "30",
+  "KD": "1.12",
+  "KDA": "1.45",
+  "ACS_Map": "216",
+  "K_Map": "16.8",
+  "D_Map": "15",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6104"
+  },
+  "Rank": "13",
+  "Player": "f0rsakeN",
+  "Maps": "17",
+  "Kills": "273",
+  "Deaths": "268",
+  "Assists": "132",
+  "KD": "1.01",
+  "KDA": "1.51",
+  "ACS_Map": "216",
+  "K_Map": "16",
+  "D_Map": "15.7",
+  "A_Map": "7.7"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6105"
+  },
+  "Rank": "14",
+  "Player": "marteen",
+  "Maps": "7",
+  "Kills": "118",
+  "Deaths": "116",
+  "Assists": "32",
+  "KD": "1.01",
+  "KDA": "1.29",
+  "ACS_Map": "214",
+  "K_Map": "16.8",
+  "D_Map": "16.5",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6106"
+  },
+  "Rank": "15",
+  "Player": "Less",
+  "Maps": "12",
+  "Kills": "195",
+  "Deaths": "148",
+  "Assists": "80",
+  "KD": "1.31",
+  "KDA": "1.85",
+  "ACS_Map": "213",
+  "K_Map": "16.2",
+  "D_Map": "12.3",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6107"
+  },
+  "Rank": "16",
+  "Player": "something",
+  "Maps": "17",
+  "Kills": "274",
+  "Deaths": "254",
+  "Assists": "79",
+  "KD": "1.07",
+  "KDA": "1.38",
+  "ACS_Map": "212",
+  "K_Map": "16.1",
+  "D_Map": "14.9",
+  "A_Map": "4.6"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6108"
+  },
+  "Rank": "17",
+  "Player": "TenZ",
+  "Maps": "20",
+  "Kills": "314",
+  "Deaths": "300",
+  "Assists": "226",
+  "KD": "1.04",
+  "KDA": "1.8",
+  "ACS_Map": "208",
+  "K_Map": "15.7",
+  "D_Map": "15",
+  "A_Map": "11.3"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6109"
+  },
+  "Rank": "18",
+  "Player": "Karon",
+  "Maps": "16",
+  "Kills": "242",
+  "Deaths": "229",
+  "Assists": "119",
+  "KD": "1.05",
+  "KDA": "1.57",
+  "ACS_Map": "207",
+  "K_Map": "15.1",
+  "D_Map": "14.3",
+  "A_Map": "7.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610a"
+  },
+  "Rank": "19",
+  "Player": "Monyet",
+  "Maps": "17",
+  "Kills": "250",
+  "Deaths": "289",
+  "Assists": "110",
+  "KD": "0.86",
+  "KDA": "1.24",
+  "ACS_Map": "199",
+  "K_Map": "14.7",
+  "D_Map": "17",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610b"
+  },
+  "Rank": "20",
+  "Player": "johnqt",
+  "Maps": "20",
+  "Kills": "293",
+  "Deaths": "251",
+  "Assists": "117",
+  "KD": "1.16",
+  "KDA": "1.63",
+  "ACS_Map": "198",
+  "K_Map": "14.6",
+  "D_Map": "12.5",
+  "A_Map": "5.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610c"
+  },
+  "Rank": "21",
+  "Player": "Magnum",
+  "Maps": "7",
+  "Kills": "106",
+  "Deaths": "106",
+  "Assists": "45",
+  "KD": "1",
+  "KDA": "1.42",
+  "ACS_Map": "195",
+  "K_Map": "15.1",
+  "D_Map": "15.1",
+  "A_Map": "6.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610d"
+  },
+  "Rank": "22",
+  "Player": "Smoggy",
+  "Maps": "8",
+  "Kills": "110",
+  "Deaths": "111",
+  "Assists": "56",
+  "KD": "0.99",
+  "KDA": "1.49",
+  "ACS_Map": "194",
+  "K_Map": "13.7",
+  "D_Map": "13.8",
+  "A_Map": "7"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610e"
+  },
+  "Rank": "23",
+  "Player": "Saadhak",
+  "Maps": "12",
+  "Kills": "162",
+  "Deaths": "163",
+  "Assists": "94",
+  "KD": "0.99",
+  "KDA": "1.57",
+  "ACS_Map": "191",
+  "K_Map": "13.5",
+  "D_Map": "13.5",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b610f"
+  },
+  "Rank": "24",
+  "Player": "tuyz",
+  "Maps": "12",
+  "Kills": "186",
+  "Deaths": "144",
+  "Assists": "80",
+  "KD": "1.29",
+  "KDA": "1.84",
+  "ACS_Map": "190",
+  "K_Map": "15.5",
+  "D_Map": "12",
+  "A_Map": "6.6"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6110"
+  },
+  "Rank": "25",
+  "Player": "Munchkin",
+  "Maps": "16",
+  "Kills": "220",
+  "Deaths": "201",
+  "Assists": "131",
+  "KD": "1.09",
+  "KDA": "1.74",
+  "ACS_Map": "189",
+  "K_Map": "13.7",
+  "D_Map": "12.5",
+  "A_Map": "8.1"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6111"
+  },
+  "Rank": "26",
+  "Player": "Zellsis",
+  "Maps": "20",
+  "Kills": "263",
+  "Deaths": "282",
+  "Assists": "172",
+  "KD": "0.93",
+  "KDA": "1.54",
+  "ACS_Map": "188",
+  "K_Map": "13.1",
+  "D_Map": "14.1",
+  "A_Map": "8.6"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6112"
+  },
+  "Rank": "27",
+  "Player": "d4v41",
+  "Maps": "17",
+  "Kills": "234",
+  "Deaths": "259",
+  "Assists": "143",
+  "KD": "0.9",
+  "KDA": "1.45",
+  "ACS_Map": "182",
+  "K_Map": "13.7",
+  "D_Map": "15.2",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6113"
+  },
+  "Rank": "28",
+  "Player": "Shin",
+  "Maps": "7",
+  "Kills": "101",
+  "Deaths": "103",
+  "Assists": "56",
+  "KD": "0.98",
+  "KDA": "1.52",
+  "ACS_Map": "178",
+  "K_Map": "14.4",
+  "D_Map": "14.7",
+  "A_Map": "8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6114"
+  },
+  "Rank": "29",
+  "Player": "Sacy",
+  "Maps": "20",
+  "Kills": "249",
+  "Deaths": "289",
+  "Assists": "169",
+  "KD": "0.86",
+  "KDA": "1.44",
+  "ACS_Map": "173",
+  "K_Map": "12.4",
+  "D_Map": "14.4",
+  "A_Map": "8.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6115"
+  },
+  "Rank": "30",
+  "Player": "nobody",
+  "Maps": "8",
+  "Kills": "92",
+  "Deaths": "112",
+  "Assists": "40",
+  "KD": "0.82",
+  "KDA": "1.17",
+  "ACS_Map": "173",
+  "K_Map": "11.5",
+  "D_Map": "14",
+  "A_Map": "5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6116"
+  },
+  "Rank": "31",
+  "Player": "CHICHOO",
+  "Maps": "8",
+  "Kills": "93",
+  "Deaths": "115",
+  "Assists": "36",
+  "KD": "0.8",
+  "KDA": "1.12",
+  "ACS_Map": "169",
+  "K_Map": "11.6",
+  "D_Map": "14.3",
+  "A_Map": "4.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6117"
+  },
+  "Rank": "32",
+  "Player": "mindfreak",
+  "Maps": "17",
+  "Kills": "217",
+  "Deaths": "258",
+  "Assists": "83",
+  "KD": "0.84",
+  "KDA": "1.16",
+  "ACS_Map": "162",
+  "K_Map": "12.7",
+  "D_Map": "15.1",
+  "A_Map": "4.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6118"
+  },
+  "Rank": "33",
+  "Player": "Boo",
+  "Maps": "6",
+  "Kills": "79",
+  "Deaths": "91",
+  "Assists": "47",
+  "KD": "0.86",
+  "KDA": "1.38",
+  "ACS_Map": "162",
+  "K_Map": "13.1",
+  "D_Map": "15.1",
+  "A_Map": "7.8"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b6119"
+  },
+  "Rank": "34",
+  "Player": "AAAAY",
+  "Maps": "4",
+  "Kills": "48",
+  "Deaths": "70",
+  "Assists": "23",
+  "KD": "0.68",
+  "KDA": "1.01",
+  "ACS_Map": "161",
+  "K_Map": "12",
+  "D_Map": "17.5",
+  "A_Map": "5.7"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611a"
+  },
+  "Rank": "35",
+  "Player": "Lakia",
+  "Maps": "16",
+  "Kills": "177",
+  "Deaths": "228",
+  "Assists": "87",
+  "KD": "0.77",
+  "KDA": "1.15",
+  "ACS_Map": "153",
+  "K_Map": "11",
+  "D_Map": "14.2",
+  "A_Map": "5.4"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611b"
+  },
+  "Rank": "36",
+  "Player": "Lysoar",
+  "Maps": "4",
+  "Kills": "44",
+  "Deaths": "61",
+  "Assists": "17",
+  "KD": "0.72",
+  "KDA": "1",
+  "ACS_Map": "152",
+  "K_Map": "11",
+  "D_Map": "15.2",
+  "A_Map": "4.2"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611c"
+  },
+  "Rank": "37",
+  "Player": "Haodong",
+  "Maps": "8",
+  "Kills": "83",
+  "Deaths": "115",
+  "Assists": "41",
+  "KD": "0.72",
+  "KDA": "1.07",
+  "ACS_Map": "152",
+  "K_Map": "10.3",
+  "D_Map": "14.3",
+  "A_Map": "5.1"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611d"
+  },
+  "Rank": "38",
+  "Player": "BerLIN",
+  "Maps": "4",
+  "Kills": "46",
+  "Deaths": "66",
+  "Assists": "27",
+  "KD": "0.69",
+  "KDA": "1.1",
+  "ACS_Map": "150",
+  "K_Map": "11.5",
+  "D_Map": "16.5",
+  "A_Map": "6.7"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611e"
+  },
+  "Rank": "39",
+  "Player": "paTiTek",
+  "Maps": "6",
+  "Kills": "61",
+  "Deaths": "94",
+  "Assists": "63",
+  "KD": "0.64",
+  "KDA": "1.31",
+  "ACS_Map": "149",
+  "K_Map": "10.1",
+  "D_Map": "15.6",
+  "A_Map": "10.5"
+},
+{
+  "_id": {
+    "$oid": "6674ebffe2070b7ac62b611f"
+  },
+  "Rank": "40",
+  "Player": "tomaszy",
+  "Maps": "7",
+  "Kills": "73",
+  "Deaths": "110",
+  "Assists": "46",
+  "KD": "0.66",
+  "KDA": "1.08",
+  "ACS_Map": "138",
+  "K_Map": "10.4",
+  "D_Map": "15.7",
+  "A_Map": "6.5"
+}]}
